@@ -1,6 +1,7 @@
 
 # Hotspot Shield Connection Error Fix
 This is a fix for Hotspot Shield Connection Error which arises after two or more connections on PC. Tested on Version 11.1.4.
+> Important: This script has been hard-coded to only work with x64 Windows and only works with 11.1.4 version of Hotspot Shield as of 05/07/22. Will improve later.
 # How to?
 Simply Run the .bat file after installing it.
 # Tested On?
